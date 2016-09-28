@@ -25,7 +25,7 @@ git push -u origin master
 
 Usage
 ------------
-Open source/MySingletonMultiDatabase.sln via Visual Studio 2015
+Open /source/MySingletonMultiDatabase.sln via Visual Studio 2015
 
 Issues
 -------
