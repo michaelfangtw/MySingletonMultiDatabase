@@ -7,7 +7,7 @@ Installation
 git clone MySingletonMultiDatabase https://github.com/michaelfangtw/MySingletonMultiDatabase.git
 ```
 
-My Git Notes
+Git Notes
 ------------
 ```
 d:
