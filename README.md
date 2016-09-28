@@ -3,12 +3,13 @@ MySingletonMultiDatabase
 This is a Database Connection Singleton pattern sample <br>
 Installation
 ------------
-`git clone MySingletonMultiDatabase https://github.com/michaelfangtw/MySingletonMultiDatabase.git`
+```
+git clone MySingletonMultiDatabase https://github.com/michaelfangtw/MySingletonMultiDatabase.git`
+```
 
 My Git Notes
 ------------
 ```
-rem ===================
 d:
 cd D:\git\MySingletonMultiDatabase
 git init
