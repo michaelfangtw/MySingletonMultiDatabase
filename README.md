@@ -47,7 +47,7 @@ For more information on semantic versioning, please visit http://semver.org/.
 License
 -------
 
-Copyright (c) 2015 [Michael Fang](http://funtech.tw)  
+Copyright (c) 2016 [Michael Fang](http://funtech.tw)  
 Licensed under the MIT License.
 
 
